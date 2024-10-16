@@ -13,10 +13,10 @@ public class code {
             int num = input.nextInt();
             System.out.println("The table of " + num + " is: ");
             for (int i = 1; i <= 10; i++) {
-                System.out.println(num + " X " + i + " = " + num*i );
+                System.out.println(num + " X " + i + " = " + num * i);
             }
         }
-        
+
         System.out.println("=== Code Execution Successful ===");
     }
 }
